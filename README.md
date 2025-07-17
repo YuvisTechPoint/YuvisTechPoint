@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @YuvisTechPoint
+# 👋 Hi, I'm @Yuvraj Prasad
 
 ## 🚀 About Me
 - 👨‍💻 I'm interested in **Full-Stack Development**, **Java**, **Python**, **AI/ML**, and **Community Building**
