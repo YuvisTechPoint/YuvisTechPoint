@@ -41,7 +41,7 @@
 - 🐰 **Fellowship** at **Keploy** - API Development & Testing
 - 🚀 **Co-Founder** at **KomProTech** - IT Consulting & AI Systems
 - 🤖 **Co-Founder** at **Walto AI** - AI-powered Agile Platform
-- 👥 **COO** at **Apex Circle Official** - Tech Community Leadership
+- 👥 **Co-Founder** at **Apex Circle Official** - Tech Community Leadership
 - 📊 **Managing Lead** at **Repository** - Developer Community
 
 ---
