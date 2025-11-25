@@ -1,10 +1,10 @@
 # 👋 Hi, I'm @Yuvraj Prasad
 
 ## 🚀 About Me
-- 👨‍💻 I'm interested in **Full-Stack Development**, **Java**, **Python**, **AI/ML**, and **Community Building**
-- 🌱 I'm currently working as **Fellowship at Keploy** and **Co-Founder at KomProTech & Walto AI**
+- 👨‍💻 I'm interested in **Full-Stack Development**, **Java**, **Python**, **AI/ML**, **Solidity** and **Community Building**
+- 🌱 I'm currently working as **MyAINation** and **Co-Founder at Apex Circle**
 - 💡 I'm looking to collaborate on **MERN Stack Projects**, **AI/ML Solutions**, and **Open Source Contributions**
-- 🏆 **9+ Competition Winner** in 2025 including **HackTropica**, **TechStorm**, **Hack4Bengal**, and **IMI Kolkata**
+- 🏆 **9+ Competition Winner** in 2025 including **HackTropica**, **TechStorm**, **Hack4Bengal**, **Avalanch Team1**, **Algo Hacks** and **Ignite X**
 - 📫 Find me on LinkedIn: [https://linkedin.com/in/yuvrajprasad](https://linkedin.com/in/yuvrajprasad)
 
 ---
@@ -38,6 +38,7 @@
 ---
 
 ## 💼 Current Roles
+- 🌐 **AI Engineer** at **MyAiNation** -Building AI product development, work with machine learning models, and contributing to product strategy.
 - 🐰 **Fellowship** at **Keploy** - API Development & Testing
 - 🚀 **Co-Founder** at **KomProTech** - IT Consulting & AI Systems
 - 🤖 **Co-Founder** at **Walto AI** - AI-powered Agile Platform
